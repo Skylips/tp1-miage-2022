@@ -15,7 +15,7 @@ Commentaires éventuels des étudiants :
 * Disposer d'un compte Github par personne (ou un pour deux personnes si vous êtes en binôme) ;
 * Télécharger et décompresser l'image VirtualBox de l'environnement de développement https://public.florat.net/cours_miage/vm-tp-miage.zip[ici] (à faire *avant le TP*). Le login/mot de passe est : `tp`/`tp`.
 
-## Déroulement du TP
+## Déroulement du TP 
 
 *Répondre aux questions de la feuille de TP juste sous la question* (en modifiant, commitant puis poussant le fichier `README.adoc`).
 
