@@ -43,7 +43,7 @@ Il existe 4 couches (les plus communes) : Présentation / Service / Domaine / In
 Dans ce code il n’y a pas de couche. Si il y avait des couches le code fonctionnerait avec des packages.
 
 *Où se trouve le code métier (voir la règle de gestion RG 1) ?*
-
+Il se trouve dans la couche Domaine, ici il se trouve dans le fichier TodolistController.java. Ce n’est pas une bonne idée de le mettre dans le Controller.
 
 *Cette règle est-elle facilement testable par un test unitaire ?*
 
