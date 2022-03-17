@@ -21,7 +21,7 @@ public class AddTodoItemService implements AddTodoItem {
 	//A compléter	
 	@Override
 	public void addTodoItem(TodoItem item) {
-		// TODO Auto-generated method stub
+		
 		
 	}
 
