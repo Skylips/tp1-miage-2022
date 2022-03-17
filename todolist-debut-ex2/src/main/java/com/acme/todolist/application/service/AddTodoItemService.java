@@ -15,8 +15,14 @@ public class AddTodoItemService implements AddTodoItem {
 
 	//A compléter
 	public AddTodoItemService(UpdateTodoItem updateTodoItem) {
+		
 	}
 
 	//A compléter	
+	@Override
+	public void addTodoItem(TodoItem item) {
+		// TODO Auto-generated method stub
+		
+	}
 
 }
