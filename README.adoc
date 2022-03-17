@@ -38,7 +38,7 @@ TIP: [Rappel Git] Trois dépôts sont ici utilisés: le dépot Github de l'ensei
 
 *Le code est-il structuré en couches ? Quel problèmes ce code peut-il poser ?*
 
-Il existe 4 couches (les plus communes) : Présentation / Service / Domaine / Infrastructure
+Il existe 4 couches : Présentation, Service, Domaine et Infrastructure
 
 Dans ce code il n’y a pas de couche. Si il y avait des couches le code fonctionnerait avec des packages.
 
