@@ -120,9 +120,13 @@ Source : http://leanpub.com/get-your-hands-dirty-on-clean-architecture[Tom Hombe
 L'archtecture hexagonale permet d'isoler les aspectes techniques et fonctionnels d'un projet. Cela favorise une orientation objet richeet favorise les tests en isolations. 
 
 Les grands principes de l’architecture hexagonale sont :
+
 -Séparer explicitement User-Side, Business Logic et Server-Side
+
 -Les dépendances vont vers la Business Logic
+
 -On isole les frontières par des Ports et Adapters
+
 
 Source :
 https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/
