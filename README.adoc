@@ -119,6 +119,15 @@ Source : http://leanpub.com/get-your-hands-dirty-on-clean-architecture[Tom Hombe
 
 L'archtecture hexagonale permet d'isoler les aspectes techniques et fonctionnels d'un projet. Cela favorise une orientation objet richeet favorise les tests en isolations. 
 
+Les grands principes de l’architecture hexagonale sont :
+-Séparer explicitement User-Side, Business Logic et Server-Side
+-Les dépendances vont vers la Business Logic
+-On isole les frontières par des Ports et Adapters
+
+Source :
+https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/
+
+
 Compléter ce code avec une fonctionnalité de création de `TodoItem`  persisté en base et appelé depuis un endpoint REST `POST /todos` qui :
 
 * prend un `TodoItem` au format JSON dans le body (voir exemple de contenu plus haut);
