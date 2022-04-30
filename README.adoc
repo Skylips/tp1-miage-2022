@@ -150,9 +150,9 @@ _Temps estimé : 20 mins_
 
 Il y a deux tests possibles :
 
-- Un pour vérifier si un item a été créé dans les dernières 24 heures.
+- Un pour vérifier si un item a une date dans les dernières 24 heures.
 
-- Un pour vérifier qu’un item a été créé depuis plus de 24 heures.
+- Un pour vérifier qu’un item a une date depuis plus de 24 heures.
 
 *Que teste-on dans ce cas ?*
 
