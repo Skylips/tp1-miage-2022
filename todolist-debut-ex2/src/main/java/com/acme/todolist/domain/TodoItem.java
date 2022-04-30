@@ -31,6 +31,10 @@ public class TodoItem {
 		return this.content;
 	}
 
+	public void setContent(String s) {
+		this.content = s;
+	}
+
 	/**
 	 * Constructeur vide imposé par JPA, ne pas utiliser
 	 */
